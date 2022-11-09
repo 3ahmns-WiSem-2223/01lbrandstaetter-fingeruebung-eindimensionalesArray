@@ -1,6 +1,6 @@
 # 01lbrandstaetter-fingeruebung-eindimensionalesArray
 
--eindimensionales Array-
+# -eindimensionales Array-
   
 
 Was ist ein eindimensionales Array?
