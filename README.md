@@ -1,0 +1,1 @@
+# 01lbrandstaetter-fingeruebung-eindimensionalesArray
