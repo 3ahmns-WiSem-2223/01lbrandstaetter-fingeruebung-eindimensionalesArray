@@ -2,6 +2,6 @@
 
 <H2> -eindimensionales Array-
   
-  <H3> Was ist ein eindimensionales Array?
+  Was ist ein eindimensionales Array?
 
   
