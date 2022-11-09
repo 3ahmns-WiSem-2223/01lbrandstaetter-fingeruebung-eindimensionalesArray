@@ -1,3 +1,3 @@
 # 01lbrandstaetter-fingeruebung-eindimensionalesArray
 
-<H1> eindimensionales Array
+<H2> eindimensionales Array
