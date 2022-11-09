@@ -1,7 +1,8 @@
 # 01lbrandstaetter-fingeruebung-eindimensionalesArray
 
-<H2> -eindimensionales Array-
+-eindimensionales Array-
   
-  Was ist ein eindimensionales Array?
+
+Was ist ein eindimensionales Array?
 
   
