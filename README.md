@@ -1,3 +1,3 @@
 # 01lbrandstaetter-fingeruebung-eindimensionalesArray
 
-<H1>Hallo
+<H1> EINDIMENSIONALES ARRAY
