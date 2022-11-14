@@ -3,8 +3,11 @@
 # Eindimensionales Array
   
 
-Was ist ein eindimensionales Array?
+## Was ist ein eindimensionales Array?
 
-Eindimensionale Arrays (deutsch: Felder) sind im Prinzip einfache Listen. Diese Arrays werden mit einem Datentypen deklariert, d.h. alle Werte, die in diesem Array gespeichert werden sollen, müssen von demselben Datentyp sein, mit dem das Array deklariert wurde.
+Eindimensionale Arrays sind im Prinzip einfache Listen sozusagen Container. Diese Arrays entsprechen alle den selben Datentyp (string,int,...), d.h. alle Werte, die in diesem Array gespeichert werden sollen, müssen von demselben Datentyp sein.
+
+## Vorstellung eines Arrays?
+Man kann sich Arrays wie einen Kasten vorstellen, welcher mehrere Schubladen hat. Diese einzelnen Laden enthalten Werte die man befüllen und anschließend abfragen kann, d.h. Wenn man z.B. eine Schublade voller Löffel hat kann man abfragen wieviele Löffel sich in der Schublade befinden.
 
   
